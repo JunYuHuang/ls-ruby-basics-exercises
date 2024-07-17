@@ -6,8 +6,12 @@
   - (outer) local variables are visible in blocks, procs, and lambdas via closures
   - method scope is self-contained / private
   - block scope is public i.e. can access outer variables
-- tricky questions I got wrong
+- questions I got wrong on first try
   - `Variable Scope`
     - 10
   - `Loops 1`
     - 3
+  - `Loops 2`
+    - 1
+    - 8
+    - 9
