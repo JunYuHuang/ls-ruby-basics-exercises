@@ -41,16 +41,16 @@ The following checklist is formatted as below:
 - [x] `Loops 1` 8
 - [x] `Loops 1` 9
 - [x] `Loops 1` 10
-- [ ] `Loops 2` 1
-- [ ] `Loops 2` 2
-- [ ] `Loops 2` 3
-- [ ] `Loops 2` 4
-- [ ] `Loops 2` 5
-- [ ] `Loops 2` 6
-- [ ] `Loops 2` 7
-- [ ] `Loops 2` 8
-- [ ] `Loops 2` 9
-- [ ] `Loops 2` 10
+- [x] `Loops 2` 1
+- [x] `Loops 2` 2
+- [x] `Loops 2` 3
+- [x] `Loops 2` 4
+- [x] `Loops 2` 5
+- [x] `Loops 2` 6
+- [x] `Loops 2` 7
+- [x] `Loops 2` 8
+- [x] `Loops 2` 9
+- [x] `Loops 2` 10
 - [ ] `User Input` 1
 - [ ] `User Input` 2
 - [ ] `User Input` 3
