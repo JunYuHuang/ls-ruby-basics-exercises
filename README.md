@@ -1,1 +1,133 @@
-# ls-ruby-basics-exercises
+# Ruby Basics - Exercises
+
+My solutions for all `Ruby Basics` exercises in Launch School's private curriculum.
+
+## Completed Exercises
+
+The following checklist is formatted as below:
+
+```
+{ Exercise Class } { Exercise Number }
+```
+
+- [ ] `Reading Documentation` 1
+- [ ] `Reading Documentation` 2
+- [ ] `Reading Documentation` 3
+- [ ] `Reading Documentation` 4
+- [ ] `Reading Documentation` 5
+- [ ] `Reading Documentation` 6
+- [ ] `Reading Documentation` 7
+- [ ] `Reading Documentation` 8
+- [ ] `Reading Documentation 2` 1
+- [ ] `Reading Documentation 2` 2
+- [ ] `Reading Documentation 2` 3
+- [ ] `Variable Scope` 1
+- [ ] `Variable Scope` 2
+- [ ] `Variable Scope` 3
+- [ ] `Variable Scope` 4
+- [ ] `Variable Scope` 5
+- [ ] `Variable Scope` 6
+- [ ] `Variable Scope` 7
+- [ ] `Variable Scope` 8
+- [ ] `Variable Scope` 9
+- [ ] `Variable Scope` 10
+- [ ] `Loops 1` 1
+- [ ] `Loops 1` 2
+- [ ] `Loops 1` 3
+- [ ] `Loops 1` 4
+- [ ] `Loops 1` 5
+- [ ] `Loops 1` 6
+- [ ] `Loops 1` 7
+- [ ] `Loops 1` 8
+- [ ] `Loops 1` 9
+- [ ] `Loops 1` 10
+- [ ] `Loops 2` 1
+- [ ] `Loops 2` 2
+- [ ] `Loops 2` 3
+- [ ] `Loops 2` 4
+- [ ] `Loops 2` 5
+- [ ] `Loops 2` 6
+- [ ] `Loops 2` 7
+- [ ] `Loops 2` 8
+- [ ] `Loops 2` 9
+- [ ] `Loops 2` 10
+- [ ] `User Input` 1
+- [ ] `User Input` 2
+- [ ] `User Input` 3
+- [ ] `User Input` 4
+- [ ] `User Input` 5
+- [ ] `User Input` 6
+- [ ] `User Input` 7
+- [ ] `User Input` 8
+- [ ] `User Input` 9
+- [ ] `User Input` 10
+- [ ] `Methods` 1
+- [ ] `Methods` 2
+- [ ] `Methods` 3
+- [ ] `Methods` 4
+- [ ] `Methods` 5
+- [ ] `Methods` 6
+- [ ] `Methods` 7
+- [ ] `Methods` 8
+- [ ] `Methods` 9
+- [ ] `Methods` 10
+- [ ] `Return` 1
+- [ ] `Return` 2
+- [ ] `Return` 3
+- [ ] `Return` 4
+- [ ] `Return` 5
+- [ ] `Return` 6
+- [ ] `Return` 7
+- [ ] `Return` 8
+- [ ] `Return` 9
+- [ ] `Return` 10
+- [ ] `Conditionals` 1
+- [ ] `Conditionals` 2
+- [ ] `Conditionals` 3
+- [ ] `Conditionals` 4
+- [ ] `Conditionals` 5
+- [ ] `Conditionals` 6
+- [ ] `Conditionals` 7
+- [ ] `Conditionals` 8
+- [ ] `Conditionals` 9
+- [ ] `Conditionals` 10
+- [ ] `Strings` 1
+- [ ] `Strings` 2
+- [ ] `Strings` 3
+- [ ] `Strings` 4
+- [ ] `Strings` 5
+- [ ] `Strings` 6
+- [ ] `Strings` 7
+- [ ] `Strings` 8
+- [ ] `Strings` 9
+- [ ] `Strings` 10
+- [ ] `Arrays` 1
+- [ ] `Arrays` 2
+- [ ] `Arrays` 3
+- [ ] `Arrays` 4
+- [ ] `Arrays` 5
+- [ ] `Arrays` 6
+- [ ] `Arrays` 7
+- [ ] `Arrays` 8
+- [ ] `Arrays` 9
+- [ ] `Arrays` 10
+- [ ] `Hashes` 1
+- [ ] `Hashes` 2
+- [ ] `Hashes` 3
+- [ ] `Hashes` 4
+- [ ] `Hashes` 5
+- [ ] `Hashes` 6
+- [ ] `Hashes` 7
+- [ ] `Hashes` 8
+- [ ] `Hashes` 9
+- [ ] `Hashes` 10
+- [ ] `Debugging` 1
+- [ ] `Debugging` 2
+- [ ] `Debugging` 3
+- [ ] `Debugging` 4
+- [ ] `Debugging` 5
+- [ ] `Debugging` 6
+- [ ] `Debugging` 7
+- [ ] `Debugging` 8
+- [ ] `Debugging` 9
+- [ ] `Debugging` 10
