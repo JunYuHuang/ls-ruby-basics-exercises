@@ -31,16 +31,16 @@ The following checklist is formatted as below:
 - [x] `Variable Scope` 8
 - [x] `Variable Scope` 9
 - [x] `Variable Scope` 10
-- [ ] `Loops 1` 1
-- [ ] `Loops 1` 2
-- [ ] `Loops 1` 3
-- [ ] `Loops 1` 4
-- [ ] `Loops 1` 5
-- [ ] `Loops 1` 6
-- [ ] `Loops 1` 7
-- [ ] `Loops 1` 8
-- [ ] `Loops 1` 9
-- [ ] `Loops 1` 10
+- [x] `Loops 1` 1
+- [x] `Loops 1` 2
+- [x] `Loops 1` 3
+- [x] `Loops 1` 4
+- [x] `Loops 1` 5
+- [x] `Loops 1` 6
+- [x] `Loops 1` 7
+- [x] `Loops 1` 8
+- [x] `Loops 1` 9
+- [x] `Loops 1` 10
 - [ ] `Loops 2` 1
 - [ ] `Loops 2` 2
 - [ ] `Loops 2` 3
