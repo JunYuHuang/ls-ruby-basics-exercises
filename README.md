@@ -21,16 +21,16 @@ The following checklist is formatted as below:
 - [x] `Reading Documentation 2` 1
 - [x] `Reading Documentation 2` 2
 - [x] `Reading Documentation 2` 3
-- [ ] `Variable Scope` 1
-- [ ] `Variable Scope` 2
-- [ ] `Variable Scope` 3
-- [ ] `Variable Scope` 4
-- [ ] `Variable Scope` 5
-- [ ] `Variable Scope` 6
-- [ ] `Variable Scope` 7
-- [ ] `Variable Scope` 8
-- [ ] `Variable Scope` 9
-- [ ] `Variable Scope` 10
+- [x] `Variable Scope` 1
+- [x] `Variable Scope` 2
+- [x] `Variable Scope` 3
+- [x] `Variable Scope` 4
+- [x] `Variable Scope` 5
+- [x] `Variable Scope` 6
+- [x] `Variable Scope` 7
+- [x] `Variable Scope` 8
+- [x] `Variable Scope` 9
+- [x] `Variable Scope` 10
 - [ ] `Loops 1` 1
 - [ ] `Loops 1` 2
 - [ ] `Loops 1` 3
