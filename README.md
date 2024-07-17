@@ -61,16 +61,16 @@ The following checklist is formatted as below:
 - [x] `User Input` 8
 - [x] `User Input` 9
 - [x] `User Input` 10
-- [ ] `Methods` 1
-- [ ] `Methods` 2
-- [ ] `Methods` 3
-- [ ] `Methods` 4
-- [ ] `Methods` 5
-- [ ] `Methods` 6
-- [ ] `Methods` 7
-- [ ] `Methods` 8
-- [ ] `Methods` 9
-- [ ] `Methods` 10
+- [x] `Methods` 1
+- [x] `Methods` 2
+- [x] `Methods` 3
+- [x] `Methods` 4
+- [x] `Methods` 5
+- [x] `Methods` 6
+- [x] `Methods` 7
+- [x] `Methods` 8
+- [x] `Methods` 9
+- [x] `Methods` 10
 - [ ] `Return` 1
 - [ ] `Return` 2
 - [ ] `Return` 3
