@@ -18,9 +18,9 @@ The following checklist is formatted as below:
 - [x] `Reading Documentation` 6
 - [x] `Reading Documentation` 7
 - [x] `Reading Documentation` 8
-- [ ] `Reading Documentation 2` 1
-- [ ] `Reading Documentation 2` 2
-- [ ] `Reading Documentation 2` 3
+- [x] `Reading Documentation 2` 1
+- [x] `Reading Documentation 2` 2
+- [x] `Reading Documentation 2` 3
 - [ ] `Variable Scope` 1
 - [ ] `Variable Scope` 2
 - [ ] `Variable Scope` 3
