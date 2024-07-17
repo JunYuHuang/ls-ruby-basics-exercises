@@ -9,3 +9,5 @@
 - tricky questions I got wrong
   - `Variable Scope`
     - 10
+  - `Loops 1`
+    - 3
