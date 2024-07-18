@@ -26,3 +26,5 @@
     - 5
   - `Conditionals`
     - 5
+  - `Debugging`
+    - 8
