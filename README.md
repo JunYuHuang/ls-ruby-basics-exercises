@@ -91,16 +91,16 @@ The following checklist is formatted as below:
 - [x] `Conditionals` 8
 - [x] `Conditionals` 9
 - [x] `Conditionals` 10
-- [ ] `Strings` 1
-- [ ] `Strings` 2
-- [ ] `Strings` 3
-- [ ] `Strings` 4
-- [ ] `Strings` 5
-- [ ] `Strings` 6
-- [ ] `Strings` 7
-- [ ] `Strings` 8
-- [ ] `Strings` 9
-- [ ] `Strings` 10
+- [x] `Strings` 1
+- [x] `Strings` 2
+- [x] `Strings` 3
+- [x] `Strings` 4
+- [x] `Strings` 5
+- [x] `Strings` 6
+- [x] `Strings` 7
+- [x] `Strings` 8
+- [x] `Strings` 9
+- [x] `Strings` 10
 - [ ] `Arrays` 1
 - [ ] `Arrays` 2
 - [ ] `Arrays` 3
