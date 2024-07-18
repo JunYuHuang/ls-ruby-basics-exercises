@@ -71,16 +71,16 @@ The following checklist is formatted as below:
 - [x] `Methods` 8
 - [x] `Methods` 9
 - [x] `Methods` 10
-- [ ] `Return` 1
-- [ ] `Return` 2
-- [ ] `Return` 3
-- [ ] `Return` 4
-- [ ] `Return` 5
-- [ ] `Return` 6
-- [ ] `Return` 7
-- [ ] `Return` 8
-- [ ] `Return` 9
-- [ ] `Return` 10
+- [x] `Return` 1
+- [x] `Return` 2
+- [x] `Return` 3
+- [x] `Return` 4
+- [x] `Return` 5
+- [x] `Return` 6
+- [x] `Return` 7
+- [x] `Return` 8
+- [x] `Return` 9
+- [x] `Return` 10
 - [ ] `Conditionals` 1
 - [ ] `Conditionals` 2
 - [ ] `Conditionals` 3
