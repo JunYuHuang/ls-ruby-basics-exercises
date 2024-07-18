@@ -81,16 +81,16 @@ The following checklist is formatted as below:
 - [x] `Return` 8
 - [x] `Return` 9
 - [x] `Return` 10
-- [ ] `Conditionals` 1
-- [ ] `Conditionals` 2
-- [ ] `Conditionals` 3
-- [ ] `Conditionals` 4
-- [ ] `Conditionals` 5
-- [ ] `Conditionals` 6
-- [ ] `Conditionals` 7
-- [ ] `Conditionals` 8
-- [ ] `Conditionals` 9
-- [ ] `Conditionals` 10
+- [x] `Conditionals` 1
+- [x] `Conditionals` 2
+- [x] `Conditionals` 3
+- [x] `Conditionals` 4
+- [x] `Conditionals` 5
+- [x] `Conditionals` 6
+- [x] `Conditionals` 7
+- [x] `Conditionals` 8
+- [x] `Conditionals` 9
+- [x] `Conditionals` 10
 - [ ] `Strings` 1
 - [ ] `Strings` 2
 - [ ] `Strings` 3
