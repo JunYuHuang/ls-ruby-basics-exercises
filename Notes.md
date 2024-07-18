@@ -24,3 +24,5 @@
     - 7
   - `Return`
     - 5
+  - `Conditionals`
+    - 5
