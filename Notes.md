@@ -6,6 +6,7 @@
   - (outer) local variables are visible in blocks, procs, and lambdas via closures
   - method scope is self-contained / private
   - block scope is public i.e. can access outer variables
+  - `#p` method prints `nil` as `"nil"` in console
 - questions I got wrong on first try
   - `Variable Scope`
     - 10
@@ -21,3 +22,5 @@
     - 10
   - `Methods`
     - 7
+  - `Return`
+    - 5
