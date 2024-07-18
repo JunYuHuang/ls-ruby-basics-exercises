@@ -111,16 +111,16 @@ The following checklist is formatted as below:
 - [x] `Arrays` 8
 - [x] `Arrays` 9
 - [x] `Arrays` 10
-- [ ] `Hashes` 1
-- [ ] `Hashes` 2
-- [ ] `Hashes` 3
-- [ ] `Hashes` 4
-- [ ] `Hashes` 5
-- [ ] `Hashes` 6
-- [ ] `Hashes` 7
-- [ ] `Hashes` 8
-- [ ] `Hashes` 9
-- [ ] `Hashes` 10
+- [x] `Hashes` 1
+- [x] `Hashes` 2
+- [x] `Hashes` 3
+- [x] `Hashes` 4
+- [x] `Hashes` 5
+- [x] `Hashes` 6
+- [x] `Hashes` 7
+- [x] `Hashes` 8
+- [x] `Hashes` 9
+- [x] `Hashes` 10
 - [ ] `Debugging` 1
 - [ ] `Debugging` 2
 - [ ] `Debugging` 3
