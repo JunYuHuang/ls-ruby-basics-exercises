@@ -101,16 +101,16 @@ The following checklist is formatted as below:
 - [x] `Strings` 8
 - [x] `Strings` 9
 - [x] `Strings` 10
-- [ ] `Arrays` 1
-- [ ] `Arrays` 2
-- [ ] `Arrays` 3
-- [ ] `Arrays` 4
-- [ ] `Arrays` 5
-- [ ] `Arrays` 6
-- [ ] `Arrays` 7
-- [ ] `Arrays` 8
-- [ ] `Arrays` 9
-- [ ] `Arrays` 10
+- [x] `Arrays` 1
+- [x] `Arrays` 2
+- [x] `Arrays` 3
+- [x] `Arrays` 4
+- [x] `Arrays` 5
+- [x] `Arrays` 6
+- [x] `Arrays` 7
+- [x] `Arrays` 8
+- [x] `Arrays` 9
+- [x] `Arrays` 10
 - [ ] `Hashes` 1
 - [ ] `Hashes` 2
 - [ ] `Hashes` 3
